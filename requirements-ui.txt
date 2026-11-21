@@ -1,0 +1,4 @@
+# For the Streamlit demo UI (Phase 5) and the LLM agent layer.
+-r requirements.txt
+streamlit>=1.65,<2
+openai>=1.30

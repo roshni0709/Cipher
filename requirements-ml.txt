@@ -1,0 +1,14 @@
+# Heavy ML extras for the Phase 1 embedding + multimodal (CLIP) matcher
+# and the neural RAG backends (MiniLM retrieval + FLAN-T5 answer writing).
+# Install the CPU build of torch FIRST or pip pulls the multi-GB CUDA build:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+# First run downloads model weights (~90 MB MiniLM, ~350 MB CLIP,
+# ~310 MB FLAN-T5-small), cached afterwards. Without this file installed,
+# everything still works: retrieval falls back to TF-IDF and generation
+# to the grounded template writer.
+-r requirements.txt
+sentence-transformers>=2.7
+transformers>=4.40
+open-clip-torch>=2.24
+faiss-cpu>=1.7.4
+Pillow>=10.0
