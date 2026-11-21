@@ -1,0 +1,122 @@
+{
+  "bose-qc": {
+    "name": "Bose QuietComfort Ultra wireless earbuds",
+    "images": [
+      {
+        "file": "bose-qc-1.jpg",
+        "source": "File:Bose QuietComfort Ultra Earbuds - 1.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Bose_QuietComfort_Ultra_Earbuds_-_1.jpg/500px-Bose_QuietComfort_Ultra_Earbuds_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "file": "bose-qc-2.jpg",
+        "source": "File:Bose QuietComfort Earbuds II.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Bose_QuietComfort_Earbuds_II.jpg/500px-Bose_QuietComfort_Earbuds_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      }
+    ]
+  },
+  "switch": {
+    "name": "Nintendo Switch 2 game console",
+    "images": [
+      {
+        "file": "switch-1.jpg",
+        "source": "File:Joy-Con 2 mit Nintendo Switch 2 und Docking Station 20250605 01.png",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Joy-Con_2_mit_Nintendo_Switch_2_und_Docking_Station_20250605_01.png/500px-Joy-Con_2_mit_Nintendo_Switch_2_und_Docking_Station_20250605_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "file": "switch-2.jpg",
+        "source": "File:Joy-Con 2 mit Nintendo Switch 2 und Docking Station 20250605 02.png",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Joy-Con_2_mit_Nintendo_Switch_2_und_Docking_Station_20250605_02.png/500px-Joy-Con_2_mit_Nintendo_Switch_2_und_Docking_Station_20250605_02.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      }
+    ]
+  },
+  "ps5": {
+    "name": "Sony PlayStation 5 game console",
+    "images": [
+      {
+        "file": "ps5-1.jpg",
+        "source": "File:Black and white Playstation 5 base edition with controller.png",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Black_and_white_Playstation_5_base_edition_with_controller.png/500px-Black_and_white_Playstation_5_base_edition_with_controller.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "file": "ps5-2.jpg",
+        "source": "File:PlayStation 5 and DualSense.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/PlayStation_5_and_DualSense.jpg/500px-PlayStation_5_and_DualSense.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      }
+    ]
+  },
+  "instantpot": {
+    "name": "Instant Pot Duo electric pressure cooker",
+    "images": [
+      {
+        "file": "instantpot-1.jpg",
+        "source": "File:Instant Pot DUO60 pressure cooker.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Instant_Pot_DUO60_pressure_cooker.jpg/500px-Instant_Pot_DUO60_pressure_cooker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "file": "instantpot-2.jpg",
+        "source": "File:Instant Pot Pressure Cooker Vegetables and Quinoa (44383321600).jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Instant_Pot_Pressure_Cooker_Vegetables_and_Quinoa_%2844383321600%29.jpg/500px-Instant_Pot_Pressure_Cooker_Vegetables_and_Quinoa_%2844383321600%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      }
+    ]
+  },
+  "kindle": {
+    "name": "Amazon Kindle Paperwhite e-reader",
+    "images": [
+      {
+        "file": "kindle-1.jpg",
+        "source": "File:2023 Amazon Kindle Paperwhite (1).jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2023_Amazon_Kindle_Paperwhite_%281%29.jpg/500px-2023_Amazon_Kindle_Paperwhite_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "file": "kindle-2.jpg",
+        "source": "File:2023 Amazon Kindle Paperwhite (2).jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/2023_Amazon_Kindle_Paperwhite_%282%29.jpg/500px-2023_Amazon_Kindle_Paperwhite_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      }
+    ]
+  },
+  "rpi4": {
+    "name": "Raspberry Pi 4 Model B computer",
+    "images": [
+      {
+        "file": "rpi4-1.jpg",
+        "source": "File:Box-package Raspberry Pi 4 model B 4GB RAM.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Box-package_Raspberry_Pi_4_model_B_4GB_RAM.jpg/500px-Box-package_Raspberry_Pi_4_model_B_4GB_RAM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "file": "rpi4-2.jpg",
+        "source": "File:Raspberry Pi 4.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Raspberry_Pi_4.jpg/500px-Raspberry_Pi_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      }
+    ]
+  },
+  "mxmaster": {
+    "name": "Logitech MX Master 3 wireless mouse",
+    "images": [
+      {
+        "file": "mxmaster-1.jpg",
+        "source": "File:Logitech MX Master 3S HS01.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Logitech_MX_Master_3S_HS01.jpg/500px-Logitech_MX_Master_3S_HS01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "file": "mxmaster-2.jpg",
+        "source": "File:Logitech MX Master 3S HS02.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Logitech_MX_Master_3S_HS02.jpg/500px-Logitech_MX_Master_3S_HS02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      }
+    ]
+  },
+  "airpods": {
+    "name": "Apple AirPods Pro wireless earbuds",
+    "images": [
+      {
+        "file": "airpods-1.jpg",
+        "source": "File:AirPods 4 and AirPods Pro 2.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/AirPods_4_and_AirPods_Pro_2.jpg/500px-AirPods_4_and_AirPods_Pro_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "file": "airpods-2.jpg",
+        "source": "File:AirPods Pro.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/AirPods_Pro.jpg/500px-AirPods_Pro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      }
+    ]
+  }
+}
